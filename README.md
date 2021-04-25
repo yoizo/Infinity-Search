@@ -7,7 +7,7 @@ git clone https://github.com/yoizo/Infinity-Search.git
 
 cd yoizo/Infinity-Search
 
-# pip install the required dependencies
+pip install the required dependencies
 
 pip3 install -r requirements.txt
 
